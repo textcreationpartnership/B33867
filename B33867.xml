@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Fanatick moderation, exemplified in Bishop Hall's Hard measure, as it was written by himself. To which is annex'd, a specimen of the unparralell'd behaviour of the sectaries, towards some others of that sacred order. As likewise, a general bill of mortality of the clergy of the City of London, who were defunct, by reason of the contagious breath of the pretended reformers of that city, from the year 1641, to the year 1647.</title>
+            <author>Hall, Joseph, 1574-1656.</author>
+         </titleStmt>
+         <extent>Approx. 80KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B33867</idno><idno type="EEBO-CITATION">99894457</idno>
+  <idno type="VID">201087</idno>
+  <idno type="EEBO-PROQUEST">2248578313</idno>
+  
+            <idno type="STC">Interim Tract Supplement Guide T.1029.[2]</idno>
+            <idno type="PROQUEST">ocm99894457</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99894457e"/>
+            <note>(EEBO-TCP ; phase 2, no. B33867)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 201087)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; B11:1[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Fanatick moderation, exemplified in Bishop Hall's Hard measure, as it was written by himself. To which is annex'd, a specimen of the unparralell'd behaviour of the sectaries, towards some others of that sacred order. As likewise, a general bill of mortality of the clergy of the City of London, who were defunct, by reason of the contagious breath of the pretended reformers of that city, from the year 1641, to the year 1647.</title>
+                  <author>Hall, Joseph, 1574-1656.</author>
+               </titleStmt>
+               <extent>40 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by A. Moore, near St. Paul's Church-Yard.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>[168-?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication suggested by NUC pre-1956 imprints.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Clergy --  England --  Early works to 1800.</term>
+               <term type="topical_term">Mortality --  England --  London --  Early works to 1800.</term>
+               <term type="topical_term">Persecution --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Brian Matzke </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Brian Matzke</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:201087:1"/>
+            <p>
+               <hi>Fanatick Moderation,</hi> Exemplified in Bishop Hall's <hi>Hard Measure,</hi> As it was written by Himself. To which is Annex'd, A <hi>Specimen</hi> of the unparralell'd Behaviour of the <hi>Sectaries,</hi> towards some o<g ref="char:EOLhyphen"/>thers of that <hi>Sacred Order.</hi>
+            </p>
+            <p>As Likewise, A General Bill of Mortality of the Clergy of the City of <hi>London,</hi> who were Defunct, by Rea<g ref="char:EOLhyphen"/>son of the Contagious Breath of the Pretended Reformers of that City, from the Year 1641, to the Year 1647.</p>
+            <p>
+               <hi>LONDON,</hi> Printed, and Sold by <hi>A. Moore,</hi> near St. <hi>Paul</hi>'s Church-Yard.</p>
+            <p>Price 6 <hi>d,</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:201087:2"/>
+            <pb n="3" facs="tcp:201087:2"/>
+            <head>Bishop <hi>HALL</hi>'s Hard Measure.</head>
+            <p>
+               <seg rend="decorInit">N</seg>OTHING could be more Plain, than that upon the Call of this Parliament, and before, there was a general Plot and Resolution of the Faction to alter the Government of the Church especi<g ref="char:EOLhyphen"/>ally, the height and insolency of some Church-governors, as was conceived, and the un<g ref="char:EOLhyphen"/>grounded imposition of some Innovations upon the Churches, both of <hi>Scotland</hi> and <hi>England,</hi> gave a fit Hint to the Project: In the vacancy therefore before the Summons, and immediately after it, there was great working secretly for the Designation and Election as of Knights and Burgesses, so especially (beyond all former Use) of the Clerks of Convocation; when now the Clergy were stirred up to contest with, and oppose their Diocesans, for the Choice of such Men as were most inclined to the favour of an Alteration. The Parliament was no sooner sate, than many vehement Speeches were made against established Church-go<g ref="char:EOLhyphen"/>vernment, and enforcement of Extirpation both Root and Branch. And because it was not fit to set upon all at once, the resolution was to begin with those Bishops which had subscribed to the Canons then lately pub<g ref="char:EOLhyphen"/>lished, upon the shutting up of the former Parliament, whom they would first have had accused of Treason;
+<pb n="4" facs="tcp:201087:3"/>but that not appearing feisible, they thought best to Indite them of very High Crimes and Offences against the King, the Parliament, and Kingdom, which was prosecuted with great earnestness by some prime Law<g ref="char:EOLhyphen"/>yers in the House of Commons, and entertained with like fervency by some zealous Lords in the House of Peers; every of those particular Canons being pressed to the most envious and dangerous height that was pos<g ref="char:EOLhyphen"/>sible. The Arch-bishop of <hi>York</hi> (was designed for the Report) aggravating Mr. <hi>Maynard</hi>'s Criminations to the utmost, not without some Interspersions of his own. The Counsel of the accused Bishops, gave in such a demurring Answer, as stopt the Mouth of that heinous Indictment: When this prevailed not, it was contrived to draw Petitions accusatory from many parts of the Kingdom against Episcopal Government, and the Promoters of the Petitions were entertained with great Respects; whereas the many Petitioners of the opposite Part, tho subscribed with many thousand Hands, were slighted and disregarded. Withal, the Rabble of <hi>London,</hi> after their Petitions, cunningly and upon other Pretences procured, were stirred up to come to the Houses personally to crave Justice, both against the Earl of <hi>Strafford</hi> first, and then against the Arch-bishop of <hi>Canterbury,</hi> and lastly against the whole Order of Bishops; which coming at first unarm'd, were checked by some Well-willers, and easily perswaded to gird on their rusty Swords, and so Accoutred came by Thousands to the Houses, filling all the outer Rooms, offering foul Abuses to the Bishops as they passed, crying out, <hi>No Bishops, No Bishops;</hi> and at last, after divers Days assembling, grown to that height of Fury, that many of them, whereof Sir <hi>Richard Wise<g ref="char:EOLhyphen"/>man</hi> professed (tho to his Cost) to be Captain, came with Resolution of some violent Courses, in so much, that many Swords were drawn hereupon at <hi>Westminster,</hi> and the Rout did not stick openly to Profess, that they would pull the Bishops in pieces. Messages were sent down to them from the Lords, they still held firm
+<pb n="5" facs="tcp:201087:3"/>both to the place and their bloody Resolutions. It now grew to be Torch-light, one of the Lords, the Marquess of <hi>Hartford,</hi> came up to the Bishops Form, told us that we were in great Danger, advised us to take some course for our own Safety, and being desir'd to tell us what he thought was the best way, counsel<g ref="char:EOLhyphen"/>led us to continue in the Parliament House all that Night; for (saith he) these People Vow they will watch you at your going out, and will search every Coach for you with Torches, so as you cannot escape. Here<g ref="char:EOLhyphen"/>upon the House of Lords was moved for some Order for the preventing their mutinous and riotous Mee<g ref="char:EOLhyphen"/>tings; Messages were sent down to the House of Com<g ref="char:EOLhyphen"/>mons to this purpose more than once, nothing was ef<g ref="char:EOLhyphen"/>fected; but for the present (for so much as all the Danger was at the rising of the House) it was earnestly desired of the Lords, that some Care might be taken of our Safety: The Motion was received by some Lords with a Smile, some other Lords, as the Earl of <hi>Manchester,</hi> undertook the Protection of the Arch<g ref="char:EOLhyphen"/>bishop of <hi>York</hi> and his Company (whose Shelter I went under) to their Lodgings; the rest, some of them by their long stay, others by secret and far-fetch'd Passages escaped Home. It was not for us to venture any more to the House without some better Assurance; upon our resolved for bearance therefore, the Arch-bishop of <hi>York</hi> sent for us to his Lodgings at <hi>Westminster,</hi> laies before us the perillous Condition we were in, Advises for Remedy (except we meant utterly to abandon our Right, and to desert our Station in Parliament) to Pe<g ref="char:EOLhyphen"/>tition both his Majesty and the Parliament, that since we were legally call'd by his Majesty's Writ, to give our Attendance in Parliament, we might be secured in the performance of our Duty and Service against those Dangers that threatned us; and withal, to protest a<g ref="char:EOLhyphen"/>gainst any such Acts as should be made during the time of our forced Absence, for which he assured us, there were many Presidents in former Parliaments, and which if we did not, we should betray the Trust committed
+<pb n="6" facs="tcp:201087:4"/>to us by his Majesty, and shamefully betray and abdi<g ref="char:EOLhyphen"/>cate the due Right, both of our Selves and Successors. To this Purpose, in our Presence, he drew up the said Petition and Protestation, avowing it to be Legal, Just and Agreeable to all former Proceedings, and being fair written, sent it to our several Lodgings for our Hands, which we accordingly Subscribed, intending yet to have had some further Consultation concerning the Delivering and whole Carriage of it. But 'ere we could suppose it to be in any Hand but his own, the first News we heard, was, that there were Messengers addressed to fetch us in to the Parliament, upon an Ac<g ref="char:EOLhyphen"/>cusation of High Treason. For, whereas this Paper was to have been delivered, first to his Majesty's Se<g ref="char:EOLhyphen"/>cretary; and after perusal by him, to his Majesty, and after, from his Majesty, to the Parliament, and for that Purpose, to the Lord Keeper, the Lord <hi>Lit<g ref="char:EOLhyphen"/>tleton,</hi> who was the Speaker of the House of Peers; all these Professed not to have perused it at all, but the said Lord Keeper, willing enough to take this Ad<g ref="char:EOLhyphen"/>vantage of Ingratiating himself with the House of Commons and the Faction, to which he knew himself sufficiently Obnoxious, finding what Use might be made of it by prejudicate Minds, reads the same open<g ref="char:EOLhyphen"/>ly in the House of Lords; and when he found some of the Faction Apprehensive enough of Miscon<g ref="char:EOLhyphen"/>struction, Aggravates the Matter as highly Offensive, and of dangerous Consequence; and thereupon, not without much Heat and Vehemence, and with an ill Preface, it is sent down to the House of Commons; where it was entertained hainously, <hi>Glynne,</hi> with a full Mouth, crying it up for no less than High Treason; and some comparing, yea, preferring it to the Powder-plot. We, poor Souls, (who little thought that we had done any thing that might deserve a chiding) are now called to our Knees at the Bar, and charged seve<g ref="char:EOLhyphen"/>rally with High Treason, being not a little Astonished at the suddainness of this Crimination, compared with the perfect Innocence of our own Intentions, which
+<pb n="7" facs="tcp:201087:4"/>were only to bring us to our due Places in Parliament with safety and speed, without the least purpose of a<g ref="char:EOLhyphen"/>ny Mans Offence: But now Traytors we are in all hast, and must be dealt with accordingly; For on <hi>Ja<g ref="char:EOLhyphen"/>nuary</hi> the 30th, in all the extremity of Frost, at Eight a Clock in the dark Evening, are we voted to the Tower; Only two of our Number had the favour of the Black Rod, by reason of their Age, which, tho desired by a Noble Lord, on my behalf, would not be yielded, wherein I acknowledge, and bless the Gracious Providence of my God, for had I been gratified, I had been undone both in Body and Purse; the Rooms be<g ref="char:EOLhyphen"/>ing strait, and the Expence beyond the reach of my Estate; The News of this our Crime and Imprison<g ref="char:EOLhyphen"/>ment, soon flew over the City, and was entertained by our Well-willers, with ringing of Bells and Bonfires; who now gave us up (not without great Triumph) for lost Men, railing on our Perfidiousness, and judging us to what foul Deaths they pleased; and what scurrile and malicious Pamphlets were scattered Abroad through<g ref="char:EOLhyphen"/>out the Kingdom, and in Foreign Parts, blazoning our Infamy, and exaggerating our Treasonable Practi<g ref="char:EOLhyphen"/>ces? What Insultations of our Adversaries was here? Being Caged sure enough in the Tower, the Faction had now fair Opportunities to work their own Designs, they therefore taking the Advantage of our Restraint, renew that Bill of theirs, (which had been twice be<g ref="char:EOLhyphen"/>fore rejected since the beginning of this Session) for taking away the Votes of Bishops in Parliament, and in a very thin House, easily passed it: Which once condescended unto, I know not by what strong Impor<g ref="char:EOLhyphen"/>tunity, His Majesty's Assent was drawn from him thereunto; we now, instead of looking after our won<g ref="char:EOLhyphen"/>ted Honour, must bend our Thoughts upon the guar<g ref="char:EOLhyphen"/>ding of our Lives, which were with no small eagerness pursued, by the violent Agents of the Faction. Their sharpest Wits, and greatest Lawyers, were imployed to advance our Impeachment to the height; but the more they look'd into the Business, the less Crime
+<pb n="8" facs="tcp:201087:5"/>could they find to fasten upon: In so much, as one of their Oracle, being demanded his Judgment concern<g ref="char:EOLhyphen"/>ing the Fact, professed to them, they might with as good Reason accuse us of Adultery: Yet still there are we fast; only upon Petition to the Lords, obtain<g ref="char:EOLhyphen"/>ing this Favour, that we might have Counsel Assigned us; which, after much Reluctation, and many Menaces from the Commons against any Man of all the Com<g ref="char:EOLhyphen"/>moners of <hi>England,</hi> that should dare to be seen to Plead in this Case, against the representative Body of the Commons, was granted us; the Lords Assigned us five very worthy Lawyers, which were nominated to them by us; what Trouble and Charge it was to pro<g ref="char:EOLhyphen"/>cure those eminent and much employed Counsellors to come to the Tower to us, and to observe the strict Laws of the Place, for the time of their Ingress, Re<g ref="char:EOLhyphen"/>gress and Stay, it is not hard to Judge. After we had lain some Weeks there, however the House of Com<g ref="char:EOLhyphen"/>mons, upon the first tender of our Impeachment, had desired we might be brought to a speedy Trial, yet, now, finding be like how little ground they had for so high an Accusation, they began to slack their Pace, and suffered us, rather to languish under the fear of so dreadful Arraignment. In so much as now we are fain to Petition the Lords, that we might be brought to our Trial: The Day was set, several Summons were sent unto us; the Lieutenant had his Warrant to bring us to the Bar; Our Impeachment was severally Read; we pleaded not Guilty <hi>Modo &amp; Forma,</hi> and desired spee<g ref="char:EOLhyphen"/>dy Proceedings, which were accordingly promised, but not too hastily performed. After long Expectati<g ref="char:EOLhyphen"/>on, another Day was appointed for the Prosecution of this high Charge. The Lieutenant brought us again to the Bar; but with what Shoutings, and Exclamati<g ref="char:EOLhyphen"/>ons, and furious Expressions of the enraged Multi<g ref="char:EOLhyphen"/>tudes, it is not easie to Apprehend; being thither brought, and severally charged upon our Knees, and having given our Negative Answers to every Particu<g ref="char:EOLhyphen"/>lar, Two Bishops, <hi>London</hi> and <hi>Winchester,</hi> were call'd
+<pb n="9" facs="tcp:201087:5"/>in as Witnesses against us, as in that Point, whether they apprehended any such Cause of Fears in the Tu<g ref="char:EOLhyphen"/>mults Assembled, as that we were in any danger of our Lives in coming to the Parliament; who seemed to incline to a favourable Report of the Perils threat<g ref="char:EOLhyphen"/>ned, tho one of them was convinced, out of his own mouth, from the Relations himself had made at the Arch-bishop of <hi>York</hi>'s Lodging. After this, <hi>Wild</hi> and <hi>Glyn</hi> made fearful Declamations at the Bar against us, aggravating all the Circumstances of our pretended Treason to the highest Pitch. Our Counsel were all ready at the Bar, to plead for us, in Answer of their clamorous and envious Suggestions; But it was An<g ref="char:EOLhyphen"/>swered, that it was now too late, we should have ano<g ref="char:EOLhyphen"/>ther Day, which Day, to this Day, never came; the Circumstances of that Day's hearing, were more Grie<g ref="char:EOLhyphen"/>vous to us than the Substance; for we were all throng'd so miserably in that strait Room before the Bar, by Reason, that the whole House of Commons would be there to see the Prizes of their Champions plaid; that we stood the whole Afternoon in no small Torture, sweating and strugling with a Merciless Multitude, till being dismissed, we were exposed to a new and greater Danger. For now, in the Dark, we must to the Tower, by Barge, as we came, and must shoot the Bridge with no small Perill. That God, under whose Merciful Protection we are, returned us to our safe Custody: There now we lay some Weeks longer, expecting the Summons for our Counsels Answer; but instead there<g ref="char:EOLhyphen"/>of, our Merciful Adversaries, well finding how sure they would be Foyl'd in that unjust Charge of Trea<g ref="char:EOLhyphen"/>son, now under Pretences of remitting the height of Rigour, wave their former Impeachment of Treason against us, and fall upon an Accusation of High Mis<g ref="char:EOLhyphen"/>demeanors in that our Protestation, and will have us prosecuted as Guilty of a <hi>Premunire:</hi> altho, as we conceive, the Law hath ever been in the Parliamen<g ref="char:EOLhyphen"/>tary Proceedings, that if a Man were Impeached, as of Treason, being the highest Crime, the Accusant
+<pb n="10" facs="tcp:201087:6"/>must hold him to the Proof of the Charge, and may not fall to any meaner Impeachment upon failing of higher. But in this Case of ours, it fell out otherwise, for although the Lords had openly promised us, that nothing should be done against us, till we and our Coun<g ref="char:EOLhyphen"/>cil were heard in our defence, yet the next News we heard was, the House of Commons had drawn up a Bill against us, wherein they declared us to be Delin<g ref="char:EOLhyphen"/>quents of a very high Nature, and had thereupon desired to have it enacted that all our spiritual Means should be taken away: Only there should be Yearly allow<g ref="char:EOLhyphen"/>ance to every Bishop for his Maintenance according to a proportion by them set down; wherein they were pleased that my share should come to 400 <hi>l. per Annum.</hi> This Bill was sent up to the Lords and by them also pas<g ref="char:EOLhyphen"/>sed, and there hath ever since lain; this being done, after some weeks more, finding the Tower, besides the Restraint, chargeable; we petitioned the Lords, that we might be admitted to Bail, and have liberty to re<g ref="char:EOLhyphen"/>turn to our Homes, the Earl of <hi>Essex</hi> moved, the Lords Assented, took our Bail, sent to the Lieutenant of the Tower for our discharge: How glad were we to flie out of our Cage? No sooner was I got to my Lodging, than I thought to take a little fresh Air, in St. <hi>James</hi>'s Park; and in my return to my Lodging in Deans yard passing through <hi>Westminster</hi> Hall, was saluted by divers of my Parliament acquantaince, and welcomed to my Liberty, whereupon some that look't upon me with an evil Eye run into the House, and complained that the Bishops were let Loose, which it seems was not well taken by the House of Commons, who presently sent a kind of an expostulation to the Lords, that they had dismissed so hainous Offenders without their knowledge and consent; Scarce had I rested in my Lodging, when there comes a Messenger to me with the sad news of sending me and therest of my Brethren the Bishops back to the Tower again; from whence we came, thither we must go, and thither I went, with an heavy (but I thank God not impatient) Heart. After we had con<g ref="char:EOLhyphen"/>tinued
+<pb n="11" facs="tcp:201087:6"/>there some six weeks longer, and earnestly Peti<g ref="char:EOLhyphen"/>tioned to return to our several Charges we were upon 5000 <hi>l.</hi> Bond dismissed, with a Clause of Revocation at a short warning, if occasion should be required. Thus having spent the Time betwixt New years Even and Whitsuntide in those safe Walls, where we by turnes preached every Lords Day to a large Auditory of Citizens, we disposed of our selves to the places of our several abode.</p>
+            <p>For my self, addressing my self to <hi>Norwich,</hi> whether it was his Majesties Pleasure to remove me, I was at the first received with more respect, than in such times I could have expected; there I preach'd the day after my Arrival to a numerous and attentive People: nei<g ref="char:EOLhyphen"/>ther was sparing of my pains in this kind ever since, till the Times growing every day more impatient of a Bishop, threatned my silencing. There though with some secret Murmurs of disaffected Persons, I enjoyed peace till the Ordinance of Sequestration came forth, which was in the latter end of <hi>March</hi> following, then when I was in hopes of receiving the profits of the fore<g ref="char:EOLhyphen"/>going half Year, for the Maintainance of my Family, were all my Rents stopped and diverted, and in <hi>April</hi> following came the Sequestrators, viz. Mr. <hi>Sotherton,</hi> Mr. <hi>Tooly,</hi> Mr. <hi>Rowly,</hi> Mr. <hi>Greenwood,</hi> &amp;c. to the palace, and told me that by Vertue of an Ordinance of Parliament they must seize upon the Palace, and all the Estate I had, both Real and Personal, and accordingly sent certain Men appointed by them (whereof one had been burnt of the Hand for the Mark of his Truth,) to appraise all the Goods that were in the House, which they accordingly executed with all diligent severity, not leaving so much as a dozen of Trenchers, or my Childrens Pictures out of their curious Inventory. Yea, they would have appraised our very wearing Cloaths, had not Alderman <hi>Tooly,</hi> and Sheriff <hi>Rawley</hi> (to whom I sent to require their Judgment concerning the Ordinance in this point) declared their opinion to the contrary. These Goods, both Library and Houshould Stuff of
+<pb n="12" facs="tcp:201087:7"/>all kinds, were appointed to be exposed to publick Sale. Much inquiry there was when the Goods should be brought to the Market; but in the mean time Mrs. <hi>Goodwin,</hi> a Religious good Gentlewoman, whom yet we had never known or seen, being moved with com<g ref="char:EOLhyphen"/>passion, very kindly offered to lay down to the Seque<g ref="char:EOLhyphen"/>strators that whole Sum which the Goods were valued at; And was pleased to leave them in our own Hands for our use, Till we might be able to repurchase them, which she did accordingly, and had the goods formally delivered to her by Mr. <hi>Smith,</hi> and Mr. <hi>Greenwood,</hi> two Sequestrators. As for the Books, several Statio<g ref="char:EOLhyphen"/>ners lookt on them, but were not forward to buy them; at last Mr. <hi>Cook,</hi> a worthy Divine of this Diocess, gave Bond to the Sequestrators, to pay to them the whole Sum whereat they were set, which was afterwards satis<g ref="char:EOLhyphen"/>fied out of that poor Pittance, that was allowed me for my Maintenance; as for my Evidences they required them from me, I denied them, as not holding my self bound to deliver them: They Nail'd, and Seal'd up the Door, and took such as they found with me.</p>
+            <p>But before this, the first noise that I heard of my Trouble was, that one Morning, before my servants were up, there came to my Gates one <hi>Wright,</hi> a <hi>Lon<g ref="char:EOLhyphen"/>don</hi> Trooper, attended with others, requiring entrance, threatning, if they were not admitted, to break open the Gates; whom I found at my first sight struggling with one of my Servants for a Pistol, which he had in his Hand; I demanded his Business at that unseason<g ref="char:EOLhyphen"/>able Time; he told me, he came to search for Arms and Ammunition, of which I must be disarm'd; I told him I had only two Muskets in the House, and no o<g ref="char:EOLhyphen"/>ther Military Provision; he not resting upon my word search'd round about the House, look'd into the Chests, and Trunks, examined the Vessels in the Cellar, find<g ref="char:EOLhyphen"/>ing no other Warlike Furniture, he askt me what Hor<g ref="char:EOLhyphen"/>ses I had, for his Commission was to take them also; I told him how poorly I was Stored, and that my Age would not allow me to travel on Foot; in conclusion
+<pb n="13" facs="tcp:201087:7"/>he took one Horse for the present, and such account of another, that he did highly expostulate with me afterwards, that I had otherwise disposed of him.</p>
+            <p>Now, not only my Rents present, but the Arrera<g ref="char:EOLhyphen"/>ges of the former Years, which I had in Favour for<g ref="char:EOLhyphen"/>born to some Tenants, being treacherously confessed to the Sequestrators, were by them called for, and ta<g ref="char:EOLhyphen"/>ken from me; neither was there any Course at all ta<g ref="char:EOLhyphen"/>ken for my Maintenance; I therefore Addressed my self to the Committee sitting here at <hi>Norwich,</hi> and de<g ref="char:EOLhyphen"/>sired them to give Order for some Means, out of that large Patrimony of the Church, to be allowed me. They all thought it very just, and there being present Sir <hi>Tho. Woodhouse,</hi> and Sir <hi>John Potts,</hi> Parliament men; it was moved, and held fit by them and the rest, that the Proportion which the Votes of the Parliament had pitch'd upon, <hi>Viz.</hi> 400 <hi>l. per Annum;</hi> should be allow<g ref="char:EOLhyphen"/>ed to me. My Lord of <hi>Manchester,</hi> who was then con<g ref="char:EOLhyphen"/>ceived to have great Power in matter of these Seque<g ref="char:EOLhyphen"/>strations, was moved herewith; He apprehended it very Just and Reasonable, and wrote to the Committee here to set out so many of the Mannors belonging to this Bishoprick as should amount to the said Sum of 400 <hi>l. Annually,</hi> which was answerably done under the Hands of the whole Table. And now I well hoped, I should yet have a good Competency of Maintenance out of that plentiful Estate which I might have had: But those Hopes were no sooner conceived then dash'd; for before I could gather up one Quarters Rent, there comes down an Order from the Committee for Seque<g ref="char:EOLhyphen"/>strations above, under the hand of Serjeant <hi>Wild</hi> the Chair-man, procured by Mr. <hi>Miles Corbet,</hi> to inhibit any such Allowance; and telling our Committee here, that neither They, nor any other had Power to allow me any thing at all: But if my Wife found her self to need a Maintenance, upon her Suit to the Com<g ref="char:EOLhyphen"/>mittee of Lords and Commons, it might be granted, that She might have a fifth Part, according to the Or<g ref="char:EOLhyphen"/>dinance, allowed for the Sustentation of her Self, and
+<pb n="14" facs="tcp:201087:8"/>her Family. Hereupon she sends a Petition to that Committee, which, after a long Delay, was admitted to be read, and an Order granted for the fifth Part: But still the Rents and Revenues, both of my Spiri<g ref="char:EOLhyphen"/>tual and Temporal Lands were taken up by the Seque<g ref="char:EOLhyphen"/>strators, both in <hi>Norfolk,</hi> and <hi>Suffolk,</hi> and <hi>Esvex,</hi> and we kept off from either Allowance or Accompt. At last, upon much pressing, <hi>Beadle</hi> the Solicitor, and <hi>Rust</hi> the Collector, brought in an Account to the Com<g ref="char:EOLhyphen"/>mittee, such as it was; but so Confused and Perplexed, and so utterly imperfect, that we could never come to know what a fifth Part meant: But they were content, that I should eat my Books, by setting off the Sum engaged for them out of the fifth Part. Mean time, the Synodals, both in <hi>Norfolk</hi> and <hi>Suffolk,</hi> and all the Spi<g ref="char:EOLhyphen"/>ritual Profits of the Diocess, were also kept back, on<g ref="char:EOLhyphen"/>ly Ordinations and Institutions continued a while. But after the Covenant was appointed to be taken, and was generally swallowed of both Clergy and Laity, my Power of Ordination was with some strange Vio<g ref="char:EOLhyphen"/>lence restrained; For when I was going on in my won<g ref="char:EOLhyphen"/>ted Course (which no Law or Ordinance had inhibited) certain forward Voluntiers in the City, banding toge<g ref="char:EOLhyphen"/>ther, stir up the Mayor, and Aldermen, and Sheriffs, to call me to an Account for an open Violation of their Covenant. To this purpose divers of them came to my Gates at a very unseasonable time, and knocking very vehemently, required to speak with the Bishop; Messages were sent to them, to know their Busienss, nothing would satisfie them but the Bishop's Presence, at last I came down to them, and demanded what the Matter was; they would have the Gate opened, and then they would tell me; I answered, that I would know them better first: If they had any thing to say to me, I was ready to hear them; they told, me they had a writing to me from Mr. <hi>Mayor,</hi> and some other of their Magistrates; the Paper contained both a chal<g ref="char:EOLhyphen"/>lenge of me for breaking the Covenant, in Ordaining Ministers; and withal required me to give in the
+<pb n="15" facs="tcp:201087:8"/>Names of those which were Ordained by me, both then and formerly since the Covenant: My Answer was, that Mr. <hi>Mayor</hi> was much abused by those who misinform'd him, and drawn that Paper from him; that I would the next Day give a full Answer to the writing, they moved that my Answer might be by my Personal Appearance at the <hi>Guild-hall;</hi> I ask'd them when they ever heard of a Bishop of <hi>Norwich</hi> appearing before a Mayor, I knew mine own Place, and I would take that way of answer which I thought fit, and so dis<g ref="char:EOLhyphen"/>missed them, who had given out that Day, that had they known before of mine ordaining, they would have pull'd me and those whom I ordained out of the Chappel by the Ears. Whilst I received nothing, yet something was required of me; they were not ashamed after they had taken away, and sold all my Goods and personal <hi>E<g ref="char:EOLhyphen"/>state,</hi> to come to me for assesments, and monthly <hi>Payments</hi> for that Estate which they had taken, and took Distres<g ref="char:EOLhyphen"/>ses from me upon my most just Denial, and vehement<g ref="char:EOLhyphen"/>ly required me to find the wonted Arms of my Prede<g ref="char:EOLhyphen"/>cessors, when they had left me nothing: Many inso<g ref="char:EOLhyphen"/>lencies and affronts were in all this time put upon us. One while a whole Rabble of Voluntiers came to my Gates late, when they were locked up, and call'd for the Porter to give them Entrance, which being not yielded, they threatned to make Way by Force, and had not the said Gates been very Strong they had done it: Others of them clambred over the Walls, and would come into mine House, their Errand (they said) was to search for Delinquents, what they would have done I know not, Had not we by a secret way sent to raise the Offi<g ref="char:EOLhyphen"/>cers for our Rescue: Another while the Sheriff <hi>Toftes,</hi> and Alderman <hi>Linsey,</hi> attended with many Zealous fol<g ref="char:EOLhyphen"/>lowers, came into my Chappel to look for Superstitious Pictures, and Reliques of Idolatry, and sent for me, to let me know they found those Windows full of I<g ref="char:EOLhyphen"/>mages, which were very offensive, and must be Demo<g ref="char:EOLhyphen"/>lished: I told them they were the Pictures of some ancient and worthy Bishops, as St. <hi>Ambrose, Austin,</hi> &amp;c.
+<pb n="16" facs="tcp:201087:9"/>It was answered me, that they were so many Popes; and one younger Man amongst the rest (<hi>Townsend</hi> as I perceived afterwards) would take upon him to defend that every Diocesan Bishop was Pope, I answered him with some scorn, and obtained leave, that I might with the least loss, and defacing of the Windows give order for caking off that Offence, which I did, by causing the Heads of those Pictures to be taken off, since I knew the Bodies could not offend. There was not that Care and Moderation used in reforming the Cathe<g ref="char:EOLhyphen"/>dral Church bordering upon my Palace. It is no other than Tragical to relate the Carriage of that furious Sa<g ref="char:EOLhyphen"/>crilidge, whereof our Eyes and Ears were the sad Witnesses, under the Authority and Presence of <hi>Linsey, Tofts,</hi> the Sheriff, and <hi>Greenwood;</hi> Lord, what work was here, what clattering of Glasses, what beating down of Walls, what tearing up of Monuments, what pulling down of Seats, what wresting out of Irons and Brass from the Windows and Graves! what defacing of Arms, what demolishing of curious Stone-work, that had not any representation in the World, but only the cost of the Founder, and Skill of the Mason, what tooting and piping upon the destroyed Organ Pipes, and what a hideous triumph on the Market-Day before all the Country, when in a kind of Sacrilegious and profane Procession, all the Organ Pipes, Vestments, both Copes and Surplices, together with the Leaden-Cross, which had been newly sawn down from o<g ref="char:EOLhyphen"/>ver the Green-Yard Pulpit, and the Service Books, and Singing Books that could be had, were carried to the Fire in the publick Market-place; A leud Wretch walking before the Train, in his Cope trailing in the Dirt, with a Service Book in his Hand, imitating in an impious Scorn the Tune, and usurping the words of the Litany used formerly in the Church: Near the publick Cross, all these Monuments of Idolatry must be Sacrificed to the Fire, not without much Ostentati<g ref="char:EOLhyphen"/>on of a zealous Joy, in discharging Ordnance to the cost of some who professed how much they had long'd
+<pb n="17" facs="tcp:201087:9"/>to see that Day. Neither was it any News upon this Guild-day to have the Cathedral now open on all sides to be filled with Musketiers, waiting for the Major's return, drinking and tobaccouring, as freely as if it had turn'd Alehouse. Still yet I remained in my Pa<g ref="char:EOLhyphen"/>lace, tho with but a poor Retinue and Means; but the House was held too good for Me: Many Messages were sent by Mr. <hi>Corbet</hi> to remove me thence; The first Pretence was, that the Committee, who now was at charge for an House to sit in, might make their daily Session there, being a place both more publick, roomy and chargeless. The Committee, after many Consul<g ref="char:EOLhyphen"/>tations, resolved it convenient to remove thither, tho many Overtures and Offers were made to the contrary. Mr. <hi>Corbet</hi> was impatient of my stay there, and pro<g ref="char:EOLhyphen"/>cures and sends peremptory <hi>Messages</hi> for my present dis<g ref="char:EOLhyphen"/>lodging; we desired to have some time allowed for pro<g ref="char:EOLhyphen"/>viding some othep Mansion, if we must needs be cast out of this, which my Wife was so willing to hold, (if the charge of the present Committee-house were the Things stood upon) she would be content to de<g ref="char:EOLhyphen"/>fray the Sum of the Rent of that House out of her fifth part; but that might not be yielded; Out we must, and that in three Weeks warning by Midsummer-day then approaching, so as we might have lain in the Street for ought I know, had not the Providence of God so ordered it, that a Neighbour in the Close, one Mr. <hi>Goslin,</hi> a Widower, was content to void his House for us.</p>
+            <p>
+               <hi>This hath been my Measure, wherefore I know not, Lord, thou knowest, who only canst remedy, and end, and forgive or avenge this horrible Oppression.</hi>
+            </p>
+            <closer>
+               <dateline>Scripsi <date>
+                     <hi>May</hi> 29. 1647.</date>
+               </dateline>
+               <signed>JOS. NORVIC.</signed>
+            </closer>
+         </div>
+         <div type="part">
+            <pb n="18" facs="tcp:201087:10"/>
+            <head>A Taste of the rude Behaviour of the <hi>Sectaries,</hi> towards some of the E<g ref="char:EOLhyphen"/>piscopal Clergy.</head>
+            <p>
+               <hi>GRiffith Williams,</hi> Bishop of <hi>Ossory</hi> in <hi>Ireland,</hi> was Bar<g ref="char:EOLhyphen"/>barously us'd in the Time of the Rebellion, being fetch'd away from his House at <hi>Apethorpe</hi> in <hi>Northamp<g ref="char:EOLhyphen"/>ton-shire</hi> by a Troop of Soldiers (for writing his <hi>Vin<g ref="char:EOLhyphen"/>diciae Regum</hi>) and carried Prisoner to <hi>Northampton;</hi> where the Committee, before which he was Summon'd, had the said Book in their Hands. After this he re<g ref="char:EOLhyphen"/>tir'd to <hi>Oxford,</hi> when the Soldiers from <hi>Northampton</hi> went and plunder'd his House, and all his Houshold-Stuff at <hi>Apethorpe,</hi> where his Wife and Children then resided, and Sequestred his Lands for the Use of the Parliament. Upon the declining of the King's Cause, he was brought very low; and tho he had Offers made him of very considerable Preferment, if he would but have submitted to the Parliament, yet he utterly re<g ref="char:EOLhyphen"/>fus'd them. Soon after he retir'd into <hi>Wales,</hi> where, for twelve Years together he had not 20 <hi>l. per Annum</hi> in all the World, to maintain himself and his Servants, and was forc'd to live on a little Tenement of 2 <hi>l.</hi> 10 <hi>s.</hi> a Year, and 4 <hi>l.</hi> Land of his own; so that he liv'd worse than a poor Curate, with Oaten-Bread, Barley-Bread, Butter-Milk, and sometimes Water; being not able to keep one drop of Ale or Beer during Ten Years together. He went also Attir'd in very mean Cloaths, and was forc'd to do many servile Works himself, about his House, Garden, and Cattle.</p>
+            <p>He surviv'd all his Troubles, and was restor'd to all his Preferments at his Restoration.</p>
+            <p>
+               <hi>Thomas Howel,</hi> Bishop of <hi>Bristol,</hi> met with barbarous Usage from the Hands of the Rebels; His Palace,
+<pb n="19" facs="tcp:201087:10"/>which was then cover'd with Lead, they uncas'd, and sold the Lead; so that he was expos'd to the Weather Day and Night. His Lady they knew to be then in Childbed, in which Condition it rain'd freely upon her. After many other Indignities, they pull'd and hawll'd him violently out of the Palace, of which they made a Malt-House, and a Mill; for there they Ground as well as made great quanties of Malt many Years, as many yet living in <hi>Bristol</hi> well remember. In a Word, their Usage towards him was such, that he did not long survive their Cruelty; but died soon af<g ref="char:EOLhyphen"/>ter, being a Person of a mild and tender Disposition.</p>
+            <p>
+               <hi>William Laud,</hi> Arch-Bishop of <hi>Canterbury,</hi> The bles<g ref="char:EOLhyphen"/>sed Martyr, He was revil'd, calumniated, imprison'd in the Tower four Years, put under Sequestration, both for his Temporals and Spirituals, most unjustly ac<g ref="char:EOLhyphen"/>cus'd, and contrary to all Law, at last sentenc'd even to the Halter: But on his repeaetd Petitions (at first rejected) he had the Favour of the Ax granted him by his Bloody Murderers. He witness'd with his Blood to the Truth of the Church's and His Majesty's Cause, on <hi>Tower-Hill, Jan</hi> 10th 1644-5.</p>
+            <p>
+               <hi>Thomas Morton,</hi> Bishop of <hi>Durham,</hi> when the Rebel<g ref="char:EOLhyphen"/>lion broke out, was an early Sufferer under it; and in the Year 1640, there was an Order of Parliament for seizing his Rents. Being one of the Protesting Bishops, he was committed to the Black-Rod, where he conti<g ref="char:EOLhyphen"/>nued four Months, and was taken into Custody for Baptizing a Child of the Earl of <hi>Rutland</hi>'s, according to the Order of the <hi>Church of England,</hi> &amp;c. He was turn'd out of <hi>Durham-House</hi> by the Soldiers, when they came to make a Garrison of it; and in one of the Tumults in <hi>London,</hi> was in danger of his Life from the Rabble; who cried out, <hi>Pull him out of the Coach;</hi> and whilst others cried, <hi>No, he is a good Man;</hi> they an<g ref="char:EOLhyphen"/>swered, <hi>'Tis no matter for that, he is a Bishop.</hi> And him<g ref="char:EOLhyphen"/>self afterwards said, he <hi>verily believ'd</hi> he should <hi>not have escap'd alive,</hi> had not a leading Man among them, cried out, <hi>Let him go and hang himself.</hi>
+            </p>
+            <pb n="20" facs="tcp:201087:11"/>
+            <p>
+               <hi>Matthew Wren,</hi> Bishop of <hi>Ely,</hi> was one of the most early Sufferers of all the Clergy, and the very first Bishop that was depriv'd by the Rebel Parliament. Upon a Petition of the Inhabitants of <hi>Ipswich,</hi> a Com<g ref="char:EOLhyphen"/>mittee of Parliament was order'd to draw up a Charge against him; and <hi>July</hi> 5th 1641, He was <hi>Voted unwor<g ref="char:EOLhyphen"/>thy to hold any Spiritual Promotion;</hi> Being one of the Pro<g ref="char:EOLhyphen"/>testing Bishops, he was Imprison'd with the rest, till <hi>May</hi> 5th, they were all releas'd on Bail, by the House of Lords, afterwards retiring to his House at <hi>Down<g ref="char:EOLhyphen"/>ham,</hi> he was soon Apprehended by a Party of Soldiers, and brought back again to the <hi>Tower,</hi> where he con<g ref="char:EOLhyphen"/>tinued to the end of the Year, 1659, without any Charge or Accusation form'd against him. His Plate was seiz'd by the House of Commons, and order'd to be melted down for the Use of the Common-wealth. His Goods were Plunder'd, his Estate seiz'd, and he was so miserably persecuted and oppres'd, that in the Year 1660, when his Son <hi>Thomas</hi> was created M. D. at <hi>Oxford,</hi> the Chancellor's Letter for that Purpose, ac<g ref="char:EOLhyphen"/>quaints the Convocation, That <hi>the Pressures under which his Father lay for Seventeen Years together, were such, that he could not (his Estate being taken away) allow his Children Bread,</hi> &amp;c He surviv'd all his Troubles, and was re<g ref="char:EOLhyphen"/>stor'd (with His Majesty) to his Bishoprick.</p>
+            <p>
+               <hi>George Coke,</hi> Bishop of <hi>Hereford,</hi> during the Rebel<g ref="char:EOLhyphen"/>lion, Suffer'd in common with the rest; was one of the Protesting Bishops, and accordingly Imprison'd on that Account: When Colonel <hi>Birch</hi> took the City of <hi>Hereford</hi> in 1645, he rifled the good Bishop's Palace, and afterwards took up his Habitation there till the Restauration. The Bishop had likewise a Temporal Estate in the Parish of <hi>Eardsley,</hi> call'd <hi>Quistmore;</hi> which the Committee of <hi>Herreford</hi> laid their Paws upon. By this, and such other Methods, he was reduc'd so low, that tho he was otherwise a very thrifty Man; yet he had wanted, had not his Relations supported him. This hard Usage hastned his Death, in 1646, He bore
+<pb n="21" facs="tcp:201087:11"/>his Sufferings with admirable Calmness and Serenity; and had the Character of a Pious and Learned Man.</p>
+            <p>
+               <hi>Morgan Owen,</hi> Bishop of <hi>Landaffe,</hi> was likewise one of the Protesting Bishops, and was accordingly im<g ref="char:EOLhyphen"/>prison'd in the <hi>Tower,</hi> and Impeach'd of High Treason. He continued there about four Months, and afterwards retir'd into his own Country, where his Palace at <hi>Ma<g ref="char:EOLhyphen"/>thern</hi> near <hi>Chepstow</hi> was seiz'd by one <hi>Green</hi> of <hi>Cardiffe,</hi> together with all his Revenues. One <hi>Reese, John David,</hi> the Agent and Sequestrator, (who liv'd in the Parso<g ref="char:EOLhyphen"/>nage House, managed the Glebe, and receiv'd the Tythe) remov'd a very fine Font of Stone out of the Church of <hi>Bedwas;</hi> and when himself and his Man could not break it to pieces, he caus'd it to be brought under the <hi>Yew-Tree,</hi> where it was us'd as a Trough to water his Horses and Cattle in.</p>
+            <p>
+               <hi>Robert Wright,</hi> Bishop of <hi>Lichfield,</hi> was one of the Twelve Protesting Bishops, and spoke a very handsome Speech on that Occasion, at the Bar of the House of Commons; but all in Vain. For he was, notwith<g ref="char:EOLhyphen"/>standing, sent to the <hi>Tower,</hi> where he continued 18 Weeks a Prisoner at his great Charge. He is said to have devoted half his Estate to his Majesty's Service; and that he was one of the strictest Bishops that ever sate in the See; that he was a Man of Painfulness, In<g ref="char:EOLhyphen"/>tegrity and Moderation; that likewise his Vertues were such, that the Vices only, and not the Men of the Times were his Enemies.</p>
+            <p>
+               <hi>Robert Skinner,</hi> Bishop of <hi>Oxford,</hi> was one of the Twelve Bishops that made the Protestation, for which he was imprison'd in the <hi>Tower</hi> eighteen Weeks, to his great Charge. His other Sufferings from the Faction, we have no Particulars of.</p>
+            <p>
+               <hi>John Towers,</hi> Bishop of <hi>Peterborough,</hi> was likewise one of the Protesting Bishops, for which he underwent the same Usage with the former; but after some time, obtaining his Liberty, he betook himself to His Ma<g ref="char:EOLhyphen"/>jesty at <hi>Oxford,</hi> where he continued till the Surrender of that Place, and then returned again to <hi>Peterborough,</hi>
+               <pb n="22" facs="tcp:201087:12"/>but found his Revenues all seiz'd upon: Nor was that thought enough, for he was more-over continually A<g ref="char:EOLhyphen"/>larm'd with Threatnings and Molestations, to the time of his Death. <hi>January,</hi> 10th, 1648.</p>
+            <p>
+               <hi>John Warner,</hi> Bishop of <hi>Rochester,</hi> When the Seeds of Rebellion and Anarchy began to Reign, in 1641, He shew'd himself a most Zealous Asserter of Episcopacy in the House of Lords, speaking for the Function as long as he had any Voice left, and very pertinently and valiantly defended the Antiquity and Justice of Bishops Votes in the House of Parliament. After<g ref="char:EOLhyphen"/>wards, he did not only Suffer with his Brethren, by having the Lands of his See taken away; but by com<g ref="char:EOLhyphen"/>pounding for his Temporal Estate, which was conside<g ref="char:EOLhyphen"/>rable. However, by thus parting with some of his Estate to save the rest, he was enabled to assist his suf<g ref="char:EOLhyphen"/>fering Brethren; and was accordingly a great Support to the sequestred Clergy, and their Families, as well as to other indigent Persons, often using this homely Expression, <hi>That he did eat the Cragg End of the Neck of Mutton himself, that he might leave the Poor the Shoul<g ref="char:EOLhyphen"/>ders.</hi> He out-liv'd his, as well as the Kingdoms Trou<g ref="char:EOLhyphen"/>bles; and died in the 86th Year of his Age.</p>
+            <p>
+               <hi>William Piers,</hi> Bishop of <hi>Welles,</hi> was one of the Pro<g ref="char:EOLhyphen"/>testing Bishops; as likewise of the Number of those who were singled out from among the rest of the Cler<g ref="char:EOLhyphen"/>gy for the utmost Persecution; in order to increase the Clamour of the People, by rendring them Monstrous and Odious, as well as to wreak their Malice and Sleep upon them. And accordingly this Reverend Prelate felt the Effects of it as early, and to as great a Degree as any of them; being continually for some time harass'd and perplex'd by the House; was one of those who were Imprison'd for that most just and necessary Remonstrance: And the High Crimes which he was accus'd of, were no other than, <hi>Suppressing Factious Lectu<g ref="char:EOLhyphen"/>rers, ordering the Communion Tables in the Churches, of his own Diocess, to be railed in;</hi> and things of this Na<g ref="char:EOLhyphen"/>ture.</p>
+            <pb n="23" facs="tcp:201087:12"/>
+            <p>
+               <hi>John Prideaux,</hi> Bishop of <hi>Worcester,</hi> was promoted to this See in 1641, but the Troubles were at that time so far advanc'd, that he receiv'd little or no Profit from it, to his great Impoverishment: For adhering stedfastly to His Majesty's Cause, and pronouncing all those of his Diocess, who took up Arms against him, Excommunicate; it is no Wonder that he not only Suffer'd in common with the rest, but even beyond most of his Order; Being Plunder'd, and reduc'd to such great Streights, that he was forc'd to sell his Ex<g ref="char:EOLhyphen"/>cellent Library to subsist himself and his Family: Of which there goes this memorable Story. <q>That to<g ref="char:EOLhyphen"/>wards the latter end of his Life, a Friend coming to see him, and saluting him in the common form of, <hi>How does your Lordship do?</hi> Never better in my Life, said he, only I have too great a Stomach; for I have eaten that little Plate which the Sequestrators left me, I have eaten a great Library of Excellent Books, I have eaten a great deal of Linnen, much of my Brass, some of my Pewter, and now I am come to eat Iron; and what will come next I know not.</q> He died in 1650, leaving his Children no Legacy, but Pi<g ref="char:EOLhyphen"/>ous Poverty, God's Blessing, and a Father's Prayers, as it appears by his last Will and Testament.</p>
+            <p>
+               <hi>Roger Manwaring,</hi> Bishop of St. <hi>Davids,</hi> was first call'd in Question by the Parliament for two Sermons Preach'd before King <hi>Charles</hi> I. (which he afterwards Publish'd under the Title of Religion and Loyalty) be<g ref="char:EOLhyphen"/>ing Charg'd with endeavouring to destroy the King and Kingdom by his Divinity, and censur'd to be Im<g ref="char:EOLhyphen"/>prison'd; was Fin'd 1000 <hi>l.</hi> and Order'd to make his Submission, and was disabled to have or enjoy any Pre<g ref="char:EOLhyphen"/>ferment or Office. Notwithstanding which, the King soon after Pardon'd and Advanc'd him; But the Party were not forgetful of him; and in 1640, his Troubles were reviv'd in Parliament; and the old Grudge still lay at the bottom of the Persecution, yet the New Crimes of Popish Invasions, Conversing with <hi>Papists,</hi> and being Sociable and Jovial, were Trumpt up against
+<pb n="24" facs="tcp:201087:13"/>him. Upon which he was Apprehended suddenly, Confin'd severely, Fin'd heavily, Plunder'd violently, and persecuted from Place to Place continually; inso<g ref="char:EOLhyphen"/>much, that for the two last Years of his Life, not a Week pass'd over his Head, without a Message or an Injury; which he desir'd God not to remember against his Adversaries, and adjur'd all his Friends to forget. Under these his Troubles, he had nothing but a small Temporal Estate left to Support him, and died at <hi>Caermarthen,</hi> after he had endur'd many Miseries, <hi>July</hi> 16, 1653.</p>
+            <p>
+               <hi>Thomas Westfeild,</hi> Bishop of <hi>Bristol,</hi> accepted of this Bishoprick in the worst of Times, as hoping to do some Service to the Church, tho he had refus'd the Offer of it, which was made him Twenty Years before. In the beginning of the Rebellion, he was abused in the Streets, Sequestred from St. <hi>Bartholomews,</hi> and forced to fly. He was a Sufferer for his own and His Majesty's Cause, the Profits of his Bishoprick being unjustly detain'd from him, tho afterwards by a Committee of the Rebel Parliament, order'd to be restor'd; and when he came to make his Will, it ran thus: <hi>As for my worldly Goods, (which as the Times now are) I know well not where they be; I give and bequeath,</hi> &amp;c.</p>
+            <p>
+               <hi>James Ʋsher,</hi> The Celebrated Archbishop of <hi>Armagh,</hi> upon the breaking out of the <hi>Irish</hi> Rebellion, fled into <hi>England,</hi> where, in Consideration of his great Losses in <hi>Ireland,</hi> he had the Bishoprick of <hi>Carlisle</hi> conferr'd upon him, making a shift to subsist upon that little he could get, until the Rebellion grew prevalent; at which time the Houses of Parliament having seiz'd up<g ref="char:EOLhyphen"/>on the Bishops Lands, their Agent (or those who took upon them to be so) collected all the Arrears and grow<g ref="char:EOLhyphen"/>ing Rents of the Bishoprick for their own use. The Chief of those who were employed, was one <hi>Barker;</hi> who destroy'd the Woods, pillag'd the Castle of <hi>Rose</hi> (the Bishop's Residence) and carried off many of the Stones to build his own House and Barns. And as he suffer'd in his Revenues, so he did in Person likewise;
+<pb n="25" facs="tcp:201087:13"/>for being sought after in <hi>London,</hi> he was forc'd to fly from Place to Place; and whilst in <hi>Wales,</hi> he was plun<g ref="char:EOLhyphen"/>der'd of his chiefest Books and Manuscripts He was deliver'd out of these and all his other Troubles at <hi>Rygate</hi> in Surrey, and was buried at <hi>Westminster,</hi> as 'tis generally thought, at the Charges of the Protector; who did, indeed, Order 200 <hi>l</hi> out of the Deodands for that purpose; but it was never paid.</p>
+            <p>
+               <hi>George Coke,</hi> first promoted to the Bishoprick of <hi>Bri<g ref="char:EOLhyphen"/>stol;</hi> and then of <hi>Hereford.</hi> During the Rebellion, he suffer'd in common with the rest of his Order; and was one of the Protesting Bishops, and accordingly Impri<g ref="char:EOLhyphen"/>son'd on that Account. When Colonel <hi>Birch</hi> took the City of <hi>Hereford,</hi> in 1645, he rifled this good Bishop's Palace, and afterwards took up his Habitation there till the Restoration; and what is more, had great part of the Revenues of the Bishoprick to his own Use; and to this Day the Mannour of <hi>Whitbourn,</hi> by the sorry Compliance of some who might have prevented it, continues in his Family. By this and such other Methods, he was reduc'd so low, that tho he was other<g ref="char:EOLhyphen"/>wise a very thirfty Man; yet he had wanted, had not his Relations supported him. This hard usage hasten'd his Death, 1646, tho he bore his Sufferings with ad<g ref="char:EOLhyphen"/>mirable Calmness and Serenity; leaving the Character behind him of a Pious and Learned Man.</p>
+            <p>
+               <hi>Accepted Frewen,</hi> First advanc'd to the Bishoprick of <hi>Lichfield,</hi> by K. <hi>Ch.</hi> 1st. and afterwards to the Arch-Bishoprick of <hi>York,</hi> at the Restoration. He was a great <hi>Loyalist,</hi> being concern'd in sending the Plate from <hi>Oxford</hi> to his Majesty, whilst he was President of <hi>Magdalen College;</hi> and was forc'd afterwards to Fly for it, to avoid being taken into Custody. His Temporal also, as well as his Bishoprick, was put un<g ref="char:EOLhyphen"/>der Sequestration.</p>
+            <p>
+               <hi>Walter Curle,</hi> Bishop of <hi>Winchester;</hi> when the Rebelli<g ref="char:EOLhyphen"/>on prevail'd, he became a great Sufferer for <hi>Monarchy</hi> and <hi>Episcopacy;</hi> was in the City of <hi>Winchester,</hi> when it was besieg'd by the Parliament Forces; and upon
+<pb n="26" facs="tcp:201087:14"/>the Surrender of that Place, retir'd to <hi>Subberton</hi> in <hi>Hampshire,</hi> where he Died in 1647. He had a Tempo<g ref="char:EOLhyphen"/>ral Estate which was also put under Sequestration; nor was he allow'd to compound for it, because he would not take the Covenant. He was a Man of very great Charity to the Poor, and expended large Sums in the Repairs of Churches.</p>
+            <p>
+               <hi>John Williams,</hi> Arch-Bishop of <hi>York;</hi> was promoted to this See, in 1641. From that of <hi>Lincoln;</hi> and was at the Head of the Protesting Bishops soon after; for which he was Eighteen Weeks imprison'd in the Tower, and afterwards suffer'd much for his Majesty's Cause. He was once Assaulted, and had his Robes torn from his Back, He was also plunder'd, as I find by an Order of the House of <hi>Commons,</hi> dated <hi>Feb.</hi> 18. 1643/4;, which commanded his Plate to be melted Down, for the Use of the <hi>Commonwealth.</hi>
+            </p>
+         </div>
+         <div type="part">
+            <head>A <hi>Specimen</hi> of the Moderation of the <hi>Sectaries,</hi> towards some worthy Persons, who were advanc'd to the <hi>Episcopal</hi> Dignity, after the RESTORATION.</head>
+            <p>
+               <hi>RObert Sanderson,</hi> June the 14th. 1648. Was by the Committee for the Reformation of the University of <hi>Oxford,</hi> Voted out of his Canonry of <hi>Christ Church,</hi> and the Professorship, having been Summoned be<g ref="char:EOLhyphen"/>fore that Committee the 22d. of <hi>Nov.</hi> before-going. After that Time one <hi>Cross</hi> was substituted in his Pro<g ref="char:EOLhyphen"/>fessorship, as <hi>Henry Cornish</hi> was afterwards in his Canon<g ref="char:EOLhyphen"/>ry. After which he retir'd to his Living of <hi>Boostby,</hi> which had been put under Sequestration in 1644. and so continued at that Time; at this Place he met with a great deal of Ill Usage: Among other abuses which were put upon him, The Soldiers often tore his Com<g ref="char:EOLhyphen"/>mon Prayer-Book to pieces, <hi>&amp;c.</hi> and at length seiz'd and carried him Prisoner to <hi>Lincoln,</hi> in order to get the furious and zealous Covenanting Minister of <hi>Allington</hi>
+               <pb n="27" facs="tcp:201087:14"/>exchang'd for him. Notwithstanding which, Dr. <hi>San<g ref="char:EOLhyphen"/>derson</hi> could not live Safe or quietly there: For tho, by that Agreement, he got the Sequestration of his Living taken off, yet he was several times afterwards Plunder'd; and once Wounded in no less than three Places: He had at that time a Wife and Children, was reduc'd to great Poverty; and in 1658, was in a very pitiful Condition: But surviving the Restoration, he was restor'd to his Dignities, and worthily created Bi<g ref="char:EOLhyphen"/>shop of <hi>Lincoln.</hi>
+            </p>
+            <p>
+               <hi>Peter Gunning,</hi> Promoted to the Bishoprick, first of <hi>Gloucester,</hi> then of <hi>Ely,</hi> by King <hi>Charles</hi> II. Upon the breaking out of the Rebellion, he was Zealous in the Cause of His Majesty and the Church; and always op<g ref="char:EOLhyphen"/>pos'd the Faction to the very utmost of his Power; for which he became, in a particular manner, the Object of their Fury: And whilst he was with his Mother (lately then become a Widow) in <hi>Kent,</hi> he was hunted about, and forc'd to lye in Woods; and at length was Imprison'd, for having assisted some Forces belonging to the King at <hi>Tunbridge,</hi> with the Charity he had mov'd a Neighbouring Congregation to, by two Ser<g ref="char:EOLhyphen"/>mons. A while after he became Curate of the little Vicarage of <hi>Cassington,</hi> near <hi>Oxford;</hi> at which Place, for about the space of two Years, he endur'd several Affronts and Abuses by the Parliamentarian Soldiers from <hi>Abingdon,</hi> and elsewhere; either by interrupting him with base Language, or by pulling him out of the Church.</p>
+            <p>
+               <hi>Richard Sterne,</hi> Promoted first to the See of <hi>Carlisle,</hi> and then to the Arch-Bishoprick of <hi>Canterbury,</hi> after the Restoration. Upon the breaking out of the Re<g ref="char:EOLhyphen"/>bellion, he was very Active in sending the <hi>Cambridge</hi> Plate to His Majesty; for which, he, with two other worthy Loyalists, was by <hi>Cromwell</hi> (who had with some Parties of Soldiers surrounded the several Chap<g ref="char:EOLhyphen"/>pels, whilst the Scholars were at Prayers) seiz'd and carried in Triumph to <hi>London;</hi> and tho there was an express Order from the Lord's House, for their Impri<g ref="char:EOLhyphen"/>sonment
+<pb n="28" facs="tcp:201087:15"/>in the Tower, which met them at <hi>Tottenham High-Cross</hi> (wherein, notwithstanding there was no Crime exprest) yet they were led Captive thro <hi>Bartho<g ref="char:EOLhyphen"/>lomew</hi> Fair, and so as far as <hi>Temple-Bar,</hi> and back thro' the City to Prison in the <hi>Tower,</hi> on purpose that they might be hooted at, or Ston'd by the Rabble-Rout. After which, for three Years together, they were hur<g ref="char:EOLhyphen"/>ried up and down from one Prison to another, at exces<g ref="char:EOLhyphen"/>sive and unreasonable Charges; and Fees exacted from them, far beyond their Abilities to defray; having all their Goods Plunder'd, and their Masterships and Livings taken from them, which should preserve them from Famishing. And tho in all things Time there was never any Accusation brought, much less prov'd a<g ref="char:EOLhyphen"/>gainst any of them, yet did they Suffer intolerable Im<g ref="char:EOLhyphen"/>prisonment both by Land and Water; especially that in the Ship; where, for ten Days together (they, with many other Gentlemen of great Rank) were kept un<g ref="char:EOLhyphen"/>der Deck, without Liberty to come to Breathe in the common Air, or to ease Nature, except at the Cour<g ref="char:EOLhyphen"/>tesie of the rude Sailors, which oftentimes was denied them: In which Condition, they were more like Gally Slaves than Freeborn Subjects, and Men of such Qua<g ref="char:EOLhyphen"/>lity and Condition; and had been so indeed, might some have had their Wills, who were bargaining with the Merchants to sell them to <hi>Algiers,</hi> or as bad a Place, as has since been notoriously known, upon no false or fraudulent Information. After this, Dr. <hi>Sterne</hi> was remov'd from the Ship, but still kept under Con<g ref="char:EOLhyphen"/>finement in some other Prison; only had the Favour of attending the Blessed Martyr'd Arch-Bishop on the Scaffold on <hi>Tower Hill.</hi> At length, having lost all he had, and suffer'd to the last Degree for his Loyalty, he was permitted to have his Liberty, and surviv'd his Troubles.</p>
+            <p>
+               <hi>Guy Carleton,</hi> advanc'd first to the Bishoprick of <hi>Bristol,</hi> 1671, and thence translated to that of <hi>Chichi<g ref="char:EOLhyphen"/>ster,</hi> 1678, Upon the breaking out of the Rebllion, he faithfully adher'd to his Majesty's Interest, and was
+<pb n="29" facs="tcp:201087:15"/>not a little Serviseable to him. He was first of all forc'd from his Rich Living in the <hi>North,</hi> and was af<g ref="char:EOLhyphen"/>terwards driven from that of <hi>Bucklesbury</hi> by the <hi>Triers:</hi> After which, he was likewise seiz'd and imprison'd in <hi>Lambeth</hi> House, where his Wife secretly convey'd a Cord to him, by the help of which he let himself down thro' a Window towards the <hi>Thames;</hi> but be<g ref="char:EOLhyphen"/>ing forc'd to drop from it, not being long enough, he dislocated one of his Bones; when a Boat being provi<g ref="char:EOLhyphen"/>ded for him, he was soon carried off, and conce lest during the Cure; which his poor Wife was oblig'd to sell her Bed to pay for. He return'd from beyond the Seas with his Majesty; and was worthily promoted as aforesaid; and died in 1685.</p>
+            <p>
+               <hi>Anthony Sparrow,</hi> first made Bishop of <hi>Exeter,</hi> and from thence translated to <hi>Norwich.</hi> About the Year 1648, or 1649, he obtained the Living of <hi>Haukdon</hi> in <hi>Sussex,</hi> but the Religious Committee at <hi>Westminster,</hi> suffer'd him not to enjoy it above five Weeks. He was also oblig'd to fly and conceal himself. He had at that Time, or soon after, six Children; but was not able to obtain any Fifths to Support them, from the In<g ref="char:EOLhyphen"/>truder. Under these Calamitous Circumstances he continued about Eleven Years, when the Restoration of his Majesty dispell'd the darksome Clouds which had hover'd over him for so long a Time.</p>
+            <p>
+               <hi>John Cosin,</hi> advanc'd to the Bishoprick of <hi>Durham</hi> by King <hi>Charles</hi> II. was in the Year 1640, prefer'd to the Deanry of that Place, but never was suffer'd to en<g ref="char:EOLhyphen"/>joy it; his Troubles taking their Rise with his Ad<g ref="char:EOLhyphen"/>vancement: Being soon after the meeting of the Re<g ref="char:EOLhyphen"/>bel Parliament, <hi>Resolv'd unfit to hold any Ecclesiastical Preferment,</hi> and one of the Number of those worthy Clergymen whom the Party had singled out for De<g ref="char:EOLhyphen"/>struction He was sent for by the House as a Delin<g ref="char:EOLhyphen"/>quent, <hi>Novemb.</hi> 21, 1644, and was the first of all the Clergy that we find Sequestred; which was effected by a Vote of the whole House, <hi>Jan.</hi> 22, 1640-1, under which he lay near Twenty Years, and about Seventeen<pb n="30" facs="tcp:201087:16"/>under an actual Dispossession of all his Places, and Ba<g ref="char:EOLhyphen"/>nishment also; being forc'd so early to fly into <hi>France,</hi> and having been Plunder'd of all that he had, before he went thither; where he continued Steadfast and im<g ref="char:EOLhyphen"/>moveable in the Profession of the Protestant Persuasion, notwithstanding the vile and wicked Calamnies and Clamors of the Faction against him, his being inhu<g ref="char:EOLhyphen"/>manely divested of so many very considerable Prefer<g ref="char:EOLhyphen"/>ments, Stripped and Plunder'd of all the Moveables he had, and at last driven like a Vagabond into Foreign Parts for being a Papist.</p>
+            <p>
+               <hi>Brian Duppa,</hi> advanc'd to the Bishopick of <hi>Winchester</hi> at the Restoration. Upon the breaking out of the Re<g ref="char:EOLhyphen"/>bellion he suffer'd in common with the Rest of his Or<g ref="char:EOLhyphen"/>der; and being Stripped of those large Revenues which he was at that Time possessed of, He retir'd first to the King at <hi>Oxford,</hi> and afterwards continued to at<g ref="char:EOLhyphen"/>tend him in the <hi>Isle</hi> of <hi>Wight,</hi> &amp;c. untill the Time of his most Execrable <hi>Murder;</hi> after which he retir'd to <hi>Richmond</hi> in <hi>Surrey,</hi> where he spent most of his Time in great Devotion and Solitude untill the Year 1660. when he was deservedly Promoted as aforesaid.</p>
+            <p>
+               <hi>Gilbert Sheldon,</hi> worthily created Arch-Bishop of <hi>Canterbury</hi> at the Restoration; during the time of the Rebellion, he adher'd stedfastly to his Majesty's Cause, and when the <hi>Oxford</hi> Visitation came on, strenuously oppos'd it. <hi>March</hi> 27, 1648, He honestly, and bold<g ref="char:EOLhyphen"/>ly told the Visitors, <hi>That he could not, with a safe Con<g ref="char:EOLhyphen"/>science, Submit to them:</hi> For which, three Days after, they depriv'd him of his Warden-ship; broke open the Lodging Doors, to make way for the Intruder; and then hurried away the Doctor to Prison, who, as he pass'd the Streets, had a Thousand Prayers and Blessings from the People. In his Confinement, he continued above six Months; and then the reforming Committe set him at Liberty, on Condition that he should immediately depart five Miles from <hi>Oxford:</hi> That he should not go to the King in the <hi>Isle of Wight;</hi> and that he should give Security to Appear before
+<pb n="31" facs="tcp:201087:16"/>them, at four Days Warning whenever Cited. After which he retir'd, and spent his Time in Offices of Hu<g ref="char:EOLhyphen"/>manity, and follow'd his Studies and Devotion till the Restoration.</p>
+            <p>
+               <hi>George Morley,</hi> first advanc'd to the Bishoprick of <hi>Worcester,</hi> and thence to <hi>Winchester</hi> at the Restoration. In the beginning of the Wars, he was nominated one of the Assembly of Divines, but never Honour'd 'em with his Presence; and steadfastly adher'd to the In<g ref="char:EOLhyphen"/>terest of his Sovereign, during the time of the Rebel<g ref="char:EOLhyphen"/>lion. He scorn'd to stay at the University of <hi>Oxford,</hi> tho invited to it by the Reformers; and accordingly, was Voted out of his Canonry of <hi>Christ Church;</hi> and soon after, was, with other Loyal Subjects, actually dispossess'd by Force and Violence; he was likewise depriv'd of all his other Preferments. <hi>March</hi> 17, 1647, He was threatned to be taken into Custody for not obeying the orders of the Reforming Committee, and for that, or some other Reason, was actually impri<g ref="char:EOLhyphen"/>son'd. He was after that sent for by his Majesty to to assist in the <hi>Isle</hi> of <hi>Wight</hi> Treaty; and attended the Gallant Lord <hi>Capel,</hi> before his Execution; at length observing matters growing more desperate, he crossd the Seas, and followed the Fortunes of the young King, and constantly waited on him at the <hi>Hague,</hi> un<g ref="char:EOLhyphen"/>til his Majesty went for <hi>Scotland.</hi> In a word, he pass'd away the Time of his Exile with great Satisfaction, and continually exercising that gloomy Period in Vi<g ref="char:EOLhyphen"/>siting the Sick, burying the Dead, relieving the Di<g ref="char:EOLhyphen"/>strest Loyalists, and other Offices of Piety and Devoti<g ref="char:EOLhyphen"/>on till the Happy Restoration; when he was worthily promoted as aforesaid.</p>
+            <p>
+               <hi>John Dolben,</hi> first created Bishop of <hi>Rochester,</hi> and then Arch-bishop of <hi>York</hi> at the Restoration. Upon the breaking out of the Rebellion, he took up Arms for his Majesty; was an Ensign at the Siege of <hi>Marston Moor;</hi> was at the Siege of <hi>York,</hi> where he receiv'd a dangerous Wound; and at length became a Major in the Service of his Majesty. After the Surrender at
+<pb n="32" facs="tcp:201087:17"/>
+               <hi>Oxford,</hi> he resum'd the Gown, became M. A. but was ejected form his Studentship by the Visitors the follow<g ref="char:EOLhyphen"/>ing Year. After which, he pass'd over the remainder of the Usurpation at a Private House in <hi>Oxon,</hi> and in Conjunction with Mr. <hi>John Fell,</hi> kept up the Orders and Ceremonies of the <hi>Church of England,</hi> till the Re<g ref="char:EOLhyphen"/>storation, being then deservedly Advanc'd as above.</p>
+            <p>
+               <hi>John Fell,</hi> Created Bishop of <hi>Oxford</hi> by King <hi>Charles</hi> II. In 1643, he bore Arms in the Garrison of <hi>Oxford,</hi> and was afterwards an Ensign. In 1646, the Visitors dispossess'd him of his Student's Place; after which he liv'd retiredly in <hi>Oxford,</hi> where, with Mr. <hi>Dolben</hi> (just mention'd) he past the remainder of those Rebel<g ref="char:EOLhyphen"/>lious Times in Exercises of Piety and Devotion, till the Restoration render'd him more Conspicuous, be<g ref="char:EOLhyphen"/>coming at that Time a Burning and Shining Light to his Generation.</p>
+         </div>
+         <div type="part">
+            <pb n="33" facs="tcp:201087:17"/>
+            <head>A General Bill of Mortality OF THE Clergy of <hi>LONDON,</hi>
+            </head>
+            <p>Who were Defunct by Reason of the Contagious Breath of the <hi>Sectaries</hi> of that City, from the Year 1641, to the Year 1647, with the seve<g ref="char:EOLhyphen"/>ral Casualties of the same:</p>
+            <p>Or, a brief Martyrology and Catalogue of the Learned, Grave, Religious, and Pious Ministers of the City of <hi>London,</hi> who were Imprisoned, Plunder<g ref="char:EOLhyphen"/>ed, Barbarously Used, and deprived of all Liveli<g ref="char:EOLhyphen"/>hood for themselves and their Families in the above<g ref="char:EOLhyphen"/>said Years, for their Constancy in the Protestant Re<g ref="char:EOLhyphen"/>ligion establish'd in this Kingdom, and their Loyal<g ref="char:EOLhyphen"/>ty to their Soveraign.</p>
+            <list>
+               <head>THE Cathedral Church of Saint <hi>Pauls,</hi> the Dean, Residentiaries, and other Members of that Church, Sequestred, Plundred, and turn'd out.</head>
+               <item>
+                  <hi>Alhallowes Woodstreet,</hi> Dr. <hi>Watts,</hi> Sequestred, Plun<g ref="char:EOLhyphen"/>dred, his Wife and Children turn'd out of Doors, himself forc'd to fly.</item>
+               <item>
+                  <hi>Alhallowes Barking,</hi> Dr. <hi>Layfield</hi> Pursivanted, impri<g ref="char:EOLhyphen"/>soned in <hi>Ely-house,</hi> and the Ships, Sequestred, Plundred, and afterwards forc'd to fly.</item>
+               <item>
+                  <hi>Alhallowes Breadstreet</hi>—</item>
+               <pb n="34" facs="tcp:201087:18"/>
+               <item>
+                  <hi>Alhallowes</hi> Great—</item>
+               <item>
+                  <hi>Alhallowes Honey-lane</hi>—</item>
+               <item>
+                  <hi>Alhallowes</hi> Less—</item>
+               <item>
+                  <hi>Alhallowes Lombardstreet,</hi> Mr. <hi>Weston</hi> Sequestred.</item>
+               <item>
+                  <hi>Alhallowes Staining</hi>—</item>
+               <item>
+                  <hi>Alhallowes</hi> the Wall—</item>
+               <item>
+                  <hi>Alphage,</hi> Dr. <hi>Haley</hi> shamefully abused, his Cap pull'd off to see if he were not a shaven Priest; Voted out, and died with Grief.</item>
+               <item>
+                  <hi>Andrew Hubbard,</hi> Dr. <hi>Chambers</hi> Sequestred.</item>
+               <item>
+                  <hi>Andrew Ʋndershaft,</hi>
+                  <list>
+                     <item n="1">1st. Mr. <hi>Mason,</hi> thro Vexation forced to resign.</item>
+                     <item n="2">2d, Mr. <hi>Prichard,</hi> after that Sequestred.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Andrew Wardrobe,</hi> Dr. <hi>Isaacson</hi> Sequestred.</item>
+               <item>
+                  <hi>Anne Aldersgate,</hi> Dr. <hi>Clewet</hi> Sequestred.</item>
+               <item>
+                  <hi>Anne Black-friars</hi>—</item>
+               <item>
+                  <hi>Antholins</hi> Parish—</item>
+               <item>
+                  <hi>Austins</hi> Parish, Mr. <hi>Ʋdall</hi> Sequestred, his Bed-rid Wife turn'd out of Doors, and left in the Streets.</item>
+               <item>
+                  <hi>Bartholomew Exchange,</hi> Dr. <hi>Grant</hi> Sequestred.</item>
+               <item>
+                  <hi>Bennet Grace-church,</hi> Mr. <hi>Quelch</hi> Sequestred.</item>
+               <item>
+                  <hi>Bennet Fynck,</hi> Mr. <hi>Warfield</hi> Sequestred.</item>
+               <item>
+                  <hi>Bennet</hi> Sheerhog, Mr. <hi>Morgan,</hi> died with Grief.</item>
+               <item>
+                  <hi>Botolph Billingsgate,</hi> Mr. <hi>King</hi> Sequestred and forc'd to fly.</item>
+               <item>
+                  <hi>Christchurch,</hi> — turn'd out, and died.</item>
+               <item>
+                  <hi>Christophers,</hi> Mr. <hi>Hanslowe,</hi> forc'd to resign.</item>
+               <item>
+                  <hi>Clement Eastcheap,</hi> Mr. <hi>Stone</hi> shamefully abused, Se<g ref="char:EOLhyphen"/>questred, sent Prisoner to <hi>Plymouth,</hi> and Plundred.</item>
+               <item>
+                  <hi>Dyonis Backchurch,</hi> Mr. <hi>Humes</hi> Sequestred and Abused.</item>
+               <item>
+                  <hi>Dunstans East,</hi> Dr. <hi>Childerley,</hi> reviled, abused, and died.</item>
+               <item>
+                  <hi>Edmunds Lombardstreet,</hi> Mr. <hi>Paget</hi> molested, silenced, and Dead.</item>
+               <item>
+                  <hi>Ethelborough,</hi> Mr. <hi>Clarke</hi> Sequestred and Imprisoned.</item>
+               <item>
+                  <hi>Faiths,</hi> Dr. <hi>Browne</hi> Sequestred and Dead.</item>
+               <item>
+                  <hi>Fosters,</hi> Mr. <hi>Batty</hi> Sequestred, Plundred, forced to fly, and Dead.</item>
+               <item>
+                  <hi>Gabriel Fenchurch,</hi> Mr. <hi>Cooke</hi> Sequestred.</item>
+               <pb n="35" facs="tcp:201087:18"/>
+               <item>
+                  <hi>George Botolph-lane</hi>— Dr. <hi>Styles,</hi> forced to resign.</item>
+               <item>
+                  <hi>Gregories</hi> by St. <hi>Pauls</hi> Dr. <hi>Styles,</hi> forced to resign.</item>
+               <item>
+                  <hi>Hellens,</hi> Mr. <hi>Miller</hi> turn'd out. Dead</item>
+               <item>
+                  <hi>James Dukes-place,</hi> Mr. — Sequestred</item>
+               <item>
+                  <hi>James Garlick-hythe,</hi>
+                  <list>
+                     <item n="1">1. Mr. <hi>Freeman</hi> Plundred and Sequestred.</item>
+                     <item n="2">2. Mr. <hi>Anthony,</hi> his Curate turn'd out.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>John Baptist,</hi> Mr. <hi>Weemsly</hi> Sequestred.</item>
+               <item>
+                  <hi>John Evaugelist</hi> —</item>
+               <item>
+                  <hi>John Zachary,</hi> Mr. <hi>Edlyn</hi> Sequestred, forced to fly, and Plundered.</item>
+               <item>
+                  <hi>Katherine Coleman,</hi>
+                  <list>
+                     <item n="1">1 Dr. <hi>Hill</hi> forced to resign.</item>
+                     <item n="2">2. Mr. <hi>Kibbutts</hi> Sequestred.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Katherine Creechurch,</hi> Mr. <hi>Rush</hi> turn'd out</item>
+               <item>
+                  <hi>Laurence Jeury,</hi> Mr. <hi>Crane</hi> Sequestred.</item>
+               <item>
+                  <hi>Laurence Pountney</hi>—</item>
+               <item>
+                  <hi>Leonard Eastcheap,</hi> Mr. <hi>Calfe</hi> forced to give up to Mr. <hi>Roborough,</hi> Scribe to the Assembly.</item>
+               <item>
+                  <hi>Leonard Foster-lane,</hi> Mr. <hi>Ward</hi> forc'd to fly, plundred and died for want of Necessaries.</item>
+               <item>
+                  <hi>Margaret Lothbury,</hi> Mr. <hi>Tabor</hi> plundered, imprison<g ref="char:EOLhyphen"/>ed in the Kings-Bench, his Wife and Children turn'd out of Doors at Midnight, and he sequestred.</item>
+               <item>
+                  <hi>Margaret Moses</hi>—</item>
+               <item>
+                  <hi>Margaret New-Fishstreet,</hi> Mr. <hi>Pory</hi> forc'd to fly, plun<g ref="char:EOLhyphen"/>dered and sequestred.</item>
+               <item>
+                  <hi>Margaret Pattons,</hi> Mr. <hi>Meggs</hi> plundred, imprisoned in <hi>Ely-house,</hi> and sequestred.</item>
+               <item>
+                  <hi>Mary Abchurch,</hi> Mr. <hi>Stone</hi> plundered, sent Prisoner by Sea to <hi>Plymouth,</hi> and Sequestred.</item>
+               <item>
+                  <hi>Mary Aldermanbury</hi>—</item>
+               <item>
+                  <hi>Mary Aldermary,</hi> Mr. <hi>Browne</hi> forc'd to forsake it.</item>
+               <item>
+                  <hi>Mary le Bow,</hi> Mr. <hi>Leach</hi> sequestred, and Dead with Grief.</item>
+               <item>
+                  <hi>Mary Bothaw,</hi> Mr. <hi>Proctour</hi> forc'd to fly, and sequest<g ref="char:EOLhyphen"/>red.</item>
+               <item>
+                  <hi>Mary Colechurch</hi>—</item>
+               <item>
+                  <hi>Mary Hill,</hi>
+                  <list>
+                     <item n="1">1. Dr. <hi>Baker</hi> sequestred, Pursivanted, and imprisoned.</item>
+                     <pb n="36" facs="tcp:201087:19"/>
+                     <item n="2">2. Mr. <hi>Woodcock</hi> turn'd out, and forc'd to fly.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Mary Mounthaw,</hi> Mr. <hi>Thrall</hi> sequestred, and shame<g ref="char:EOLhyphen"/>fully abused.</item>
+               <item>
+                  <hi>Mary Somerset,</hi> Mr. <hi>Cooke</hi> sequestred.</item>
+               <item>
+                  <hi>Mary Stainings</hi>—</item>
+               <item>
+                  <hi>Mary Woolchurch,</hi> Mr. <hi>Tireman,</hi> forc'd to forsake it.</item>
+               <item>
+                  <hi>Mary Woolnoth,</hi> Mr. <hi>Shute</hi> molested, and vext to Death, and denyed a Funeral Sermon to be Preach'd by Dr. <hi>Holdsworth,</hi> as he desired.</item>
+               <item>
+                  <hi>Martins Ironmongerlane,</hi> Mr. <hi>Sparke</hi> sequestred and plundred.</item>
+               <item>
+                  <hi>Martins Ludgate,</hi> Dr. <hi>Jermin</hi> sequestred.</item>
+               <item>
+                  <hi>Martins Orgars,</hi> Dr. <hi>Walton</hi> assaulted, sequestred, plundred, and forc'd to fly.</item>
+               <item>Mr. <hi>Mosse</hi> his Curate turn'd out.</item>
+               <item>
+                  <hi>Martins Outwich,</hi> Dr. <hi>Pierce</hi> sequestred, and Dead.</item>
+               <item>
+                  <hi>Martins Vintry,</hi> Dr. <hi>Rives</hi> sequestred, plundred and forc'd to fly.</item>
+               <item>
+                  <hi>Matthew Fridaystreet,</hi> Mr. <hi>Chestlen</hi> violently assaulted in his House, imprisoned in the Compter, thence sent to <hi>Colchester</hi>-Goal in <hi>Essex,</hi> sequestred and plundred.</item>
+               <item>
+                  <hi>Maudlins Milkstreet,</hi> Mr. <hi>Jones</hi> sequestred.</item>
+               <item>
+                  <hi>Maudlins Old-Fishstreet,</hi> Dr. <hi>Griffith</hi> sequestred, plun<g ref="char:EOLhyphen"/>dred, imprisoned in <hi>Newgate,</hi> when being let out, he was forc'd to fly.</item>
+               <item>
+                  <hi>Michael Bassishaw,</hi> Dr. <hi>Gifford</hi> sequestred.</item>
+               <item>
+                  <hi>Michael Cornhill,</hi>
+                  <list>
+                     <item n="1">1. Dr. <hi>Brough</hi> sequestred, plundred, Wife and Children turn'd out of Doors, she died with Grief.</item>
+                     <item n="2">2. Mr. <hi>Weld</hi> his Curate assaulted, beaten in the Church, and turn'd out.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Michael Crookedlane</hi>—</item>
+               <item>
+                  <hi>Michael Queenhithe,</hi> Mr. <hi>Hill</hi> sequestred.</item>
+               <item>
+                  <hi>Michael Querne,</hi> Mr. <hi>Launes</hi> sequestred.</item>
+               <item>
+                  <hi>Michael Royal,</hi> Mr. <hi>Proctour</hi> sequestred, and forc'd to fly.</item>
+               <item>
+                  <hi>Michael Woodstreet</hi>—</item>
+               <item>
+                  <hi>Mildred Breadstreet,</hi> Mr. <hi>Bradshaw</hi> sequestred.</item>
+               <item>
+                  <hi>Mildred Poultry,</hi> Mr. <hi>Maden</hi> sequestred, and gone beyond Sea.</item>
+               <pb n="37" facs="tcp:201087:19"/>
+               <item>
+                  <hi>Nicholas Acons,</hi> Mr. <hi>Bennet</hi> sequestred.</item>
+               <item>
+                  <hi>Nicholas Coleabby,</hi> Mr. <hi>Chibbald</hi> sequestred.</item>
+               <item>
+                  <hi>Nicholas Olaves,</hi> Dr. <hi>Cheshire</hi> molested, and forced to resign.</item>
+               <item>
+                  <hi>Olaves Hartstreet,</hi> Mr. <hi>Haines</hi> sequestred.</item>
+               <item>
+                  <hi>Olaves Jewry,</hi> Mr. <hi>Tuke</hi> sequestred, plundred, and im<g ref="char:EOLhyphen"/>prisoned.</item>
+               <item>
+                  <hi>Olaves Silverstreet.</hi> Dr. <hi>Boosey</hi> abused &amp; died with Grief</item>
+               <item>
+                  <hi>Pancras Soperlane,</hi> Mr. <hi>Eccop</hi> sequestred, plundred, forc'd to fly, Wife and Children turned out of Doors.</item>
+               <item>
+                  <hi>Peters Cheap,</hi> Mr. <hi>Vochier</hi> sequestred, &amp; died with Grief</item>
+               <item>
+                  <hi>Peters Cornhill, Dr. Fairfax</hi> Sequestred, Plundred, imprisoned in <hi>Ely-House,</hi> and the Ships, his Wife and Children turn'd out of Doors.</item>
+               <item>
+                  <hi>Peters Pauls-Wharf,</hi> Mr. <hi>Marbury</hi> sequestred.</item>
+               <item>
+                  <hi>Peters Poor,</hi> Dr. <hi>Holdsworth</hi> sequestred, plundred, im<g ref="char:EOLhyphen"/>prisoned in <hi>Ely-house,</hi> then in the <hi>Tower.</hi>
+               </item>
+               <item>
+                  <hi>Stephens Colemanstreet</hi>—</item>
+               <item>
+                  <hi>Stephens Walbrooke,</hi> Dr. <hi>Howell,</hi> thro Vexation, forc'd to forsake it, sequestred of all, and fled.</item>
+            </list>
+            <list>
+               <head>Divers since turn'd out.</head>
+               <item>
+                  <hi>Swithens,</hi> Mr. <hi>Owen</hi> sequestred.</item>
+               <item>
+                  <hi>Thomas Apostle,</hi> Mr. <hi>Cooper</hi> sequestred, plundred, sent Prisoner to <hi>Leeds</hi> Castle in <hi>Kent,</hi> Died with Grief.</item>
+               <item>
+                  <hi>Trinity</hi> Parish, Mr. <hi>Harrison,</hi> Dead.</item>
+               <item>
+                  <hi>In the</hi> 97 <hi>Parishes within the Walls, besides St.</hi> Pauls, <hi>outed</hi> 85. <hi>Dead</hi> 16.</item>
+               <item>
+                  <hi>Andrew Holborn,</hi> Dr. <hi>Hacket</hi> sequestred.</item>
+               <item>
+                  <hi>Bartholomews</hi> Great, Dr. <hi>Westfield</hi> abused in the Streets, forc'd to fly, and dead.</item>
+               <item>
+                  <hi>Bartholomews</hi> Less—</item>
+               <item>
+                  <hi>Brides</hi> Parish, Mr. <hi>Palmer</hi> sequestred.</item>
+               <item>
+                  <hi>Bridewell</hi> Precinct, Mr. <hi>Browne</hi> turn'd out.</item>
+               <item>
+                  <hi>Botolph Aldersgate,</hi> Mr. <hi>Booth</hi> sequestred.</item>
+               <item>
+                  <hi>Botolph Aldgate,</hi> Mr. <hi>Swadlin</hi> sequestred, plundred, imprisoned at <hi>Gresham</hi> College and <hi>Newgate,</hi> his Wife and Children turn'd out of Doors.</item>
+               <item>
+                  <hi>Botolph Bishopsgate,</hi> Mr. <hi>Rogers</hi> sequestred.</item>
+               <item>
+                  <hi>Dunstans West,</hi> Dr. <hi>Marsh</hi> sequestred, and died in re<g ref="char:EOLhyphen"/>mote Parts.</item>
+               <pb n="38" facs="tcp:201087:20"/>
+               <item>
+                  <hi>George Southwark,</hi> Mr. — sequestred.</item>
+               <item>
+                  <hi>Giles Cripplegate,</hi>
+                  <list>
+                     <item n="1">1. Dr. <hi>Fuller</hi> sequestred, plundred, and imprison'd at <hi>Ely-house.</hi>
+                     </item>
+                     <item n="2">2. Mr. <hi>Hutton</hi> his Curate assaulted in the Church, and imprisoned.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Olaves Southwark,</hi> Dr. <hi>Turner</hi> sequestred, plundred, fetcht up Prisoner by a Troop of Souldiers, and after forc'd to fly.</item>
+               <item>
+                  <hi>Saviours Southwark,</hi>—</item>
+               <item>
+                  <hi>Sepulchres</hi> Parish, Mr. <hi>Pigott</hi> the Lecturer turn'd out.</item>
+               <item>
+                  <hi>Thomas Southwark,</hi> Mr. <hi>Spencer</hi> sequestred and impri<g ref="char:EOLhyphen"/>soned.</item>
+               <item>
+                  <hi>Trinity Minories</hi>—</item>
+            </list>
+            <p>
+               <hi>In the</hi> 16 <hi>Parishes without the Walls, outed</hi> 14, Dead, 2.</p>
+            <list>
+               <head>In the 10 Out-parishes.</head>
+               <item>
+                  <hi>Clement Danes,</hi> Dr. <hi>Dukeson</hi> sequestred, plundred, forc'd to fly.</item>
+               <item>
+                  <hi>Covent-garden,</hi> Mr. <hi>Hall</hi> sequestred, and forc'd to fly.</item>
+               <item>
+                  <hi>Giles</hi> in the Fields, Dr. <hi>Heiwood</hi> sequestred, imprison<g ref="char:EOLhyphen"/>ed in the Compter, <hi>Ely-house,</hi> and the Ships, forc'd to fly, his Wife and Children turn'd out of Doors.</item>
+               <item>
+                  <hi>James Clerkenwell</hi>—</item>
+               <item>
+                  <hi>Katherine Tower.</hi>
+               </item>
+               <item>
+                  <hi>Leonard Shoreditch,</hi> Mr. <hi>Squire</hi> sequestred, imprisoned in <hi>Gresham</hi> College, Newgate, at the King's Bench, his Wife and Children plundered and turn'd out of Doors.</item>
+               <item>
+                  <hi>Martins</hi> in the Fields, Dr. <hi>Bray</hi> sequestred, impri<g ref="char:EOLhyphen"/>soned, plundered, forc'd to fly, and died in remote Parts</item>
+               <item>
+                  <hi>Mary Whitechappel,</hi> Dr. <hi>Johnson</hi> sequestred.</item>
+               <item>
+                  <hi>Magdalen Bermondsey,</hi> Dr. <hi>Paske</hi> sequestred.</item>
+               <item>
+                  <hi>Savoy,</hi>
+                  <list>
+                     <item n="1">1. Dr. <hi>Balcanquel</hi> sequestred, plundred, forc'd to fly, and died in remote Parts.</item>
+                     <item n="2">2. Mr. <hi>Fuller</hi> forc'd to fly.</item>
+                  </list>
+               </item>
+            </list>
+            <p>
+               <hi>In the</hi> 10 <hi>Out-Parishes, outed</hi> 9, <hi>dead</hi> 2.</p>
+            <list>
+               <head>In the Adjacent Towns.</head>
+               <pb n="39" facs="tcp:201087:20"/>
+               <item>The Dean and all the Prebends of the Abby-Church of <hi>Westminster</hi> (but only Dr. <hi>Lambert Osbaston</hi>) sequestred.</item>
+               <item>
+                  <hi>Margarets Westminster,</hi> Dr. <hi>Wimbert</hi> sequestred.</item>
+               <item>
+                  <hi>Lambeth,</hi> Dr. <hi>Featly</hi> sequestred, plundred, impri<g ref="char:EOLhyphen"/>soned, and died in Prison.</item>
+               <item>
+                  <hi>Newington,</hi> Mr. <hi>Heath</hi> sequestred.</item>
+               <item>
+                  <hi>Hackney,</hi> Mr. <hi>Moore,</hi> sequestred.</item>
+               <item>
+                  <hi>Reddriffe</hi>—</item>
+               <item>
+                  <hi>Islington,</hi> Divers Ministers turned out.</item>
+               <item>
+                  <hi>Stepney,</hi> Dr. <hi>Stampe</hi> sequestred, plundred, and forc'd to fly.</item>
+            </list>
+            <p>
+               <hi>In the adjacent Towns, besides those of the Abby Church, and</hi> Islington, <hi>outed</hi> 7.</p>
+            <p>The Total of the Ministers of <hi>London,</hi> within the Bills of Mortality, (besides <hi>Pauls</hi> and <hi>West<g ref="char:EOLhyphen"/>minster</hi>) turn'd out of their Livings by Seques<g ref="char:EOLhyphen"/>tration and otherwise. 115</p>
+            <p>Whereof Doctors in Divinity, above 40</p>
+            <p>And the most of them Plundred of their Goods, and their Wives and Children turn'd out of Doors.</p>
+            <p>Imprisoned in <hi>London,</hi> and in the Ships, and in several Goals and Castles in the Country 20</p>
+            <p>Fled to prevent Imprisonment 25</p>
+            <p>Dead in remote Parts, and in Prisons, and with Grief — 22</p>
+            <p>About 40 Churches now void, having no constant Minister in them.</p>
+            <q>
+               <hi>Ʋsque quo Domine?</hi>
+               <bibl>Rev. 6.10.</bibl>
+            </q>
+            <epigraph>
+               <q>
+                  <bibl>2 Chron. 13.9.</bibl>
+                  <p>
+                     <hi>Have ye not cast out the priests of the Lord, the sons of Aaron and the Levites, and have made you priests after the man<g ref="char:EOLhyphen"/>ner of the Nations of other lands? so that whosoever cometh to consecrate himself with a young bullock, and se<g ref="char:EOLhyphen"/>ven rams, the same may be a priest of no gods.</hi>
+                  </p>
+               </q>
+               <pb n="40" facs="tcp:201087:21"/>
+               <q>
+                  <bibl>2 Chron. 36.16.</bibl>
+                  <p>
+                     <hi>But they mocked the messengers of god, and despised his words, and misused his prophets, until the wrath of the Lord rose against his people, till there was no remedy.</hi>
+                  </p>
+               </q>
+               <q>
+                  <bibl>Luke 6.22, 23.</bibl>
+                  <p>
+                     <hi>Blessed are you, when men shall hate you, and when they shall separate you</hi> from their Company, <hi>and shall re<g ref="char:EOLhyphen"/>proach you, and cast out your name as evil, for the son of mans sake. Rejoyce ye in that day, and leap for joy, for behold your reward is great in heaven, for ac<g ref="char:EOLhyphen"/>cording to these things did their Fathers to the Prophets.</hi>
+                  </p>
+               </q>
+               <q>
+                  <bibl>Phil. 1.28, 29.</bibl>
+                  <p>
+                     <hi>In nothing be ye terrified by your adversaries; which to them is an evident token of perdition, but to you of salvation, and that of God. For unto you the grace is given in the be<g ref="char:EOLhyphen"/>half of Christ, not only to believe on him, but also to suf<g ref="char:EOLhyphen"/>fer for his sake.</hi>
+                  </p>
+               </q>
+               <q>
+                  <bibl>2 Tim. 4.3.</bibl>
+                  <p>
+                     <hi>For the time will be, when they will not endure wholsome do<g ref="char:EOLhyphen"/>ctrine; but having itching ears, shall heap to themselves Teachers according to their own private lusts.</hi>
+                  </p>
+               </q>
+               <q>
+                  <bibl>1 Pet. 4.16, 17, 18.</bibl>
+                  <p>
+                     <hi>If any man suffer as a Christian, let him not be ashamed, but let him glorifie God in this behalf. For the time is come, that judgment must begin at the house of God; and if it first begin at us, what shall the end be of them, that obey not the gospel of God? And if the just man be saved with difficulty, where shall the ungodly and the sinner appear.</hi>
+                  </p>
+               </q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:201087:21"/>
+         </div>
+      </body>
+   </text>
+</TEI>
